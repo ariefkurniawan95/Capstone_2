@@ -9,6 +9,12 @@
 - Pelanggan dapat memberikan rating dari angka 1 hingga 5 atas pengiriman yang telah dilakukan. 
 - Perusahaan menyerahkan data atas pengirimannya kepada seorang data analyst untuk dianalisa lebih lanjut terkait kinerja pengiriman yang telah dilakukannya selama ini.
 
+# Proses Bisnis
+![alt text](https://github.com/ariefkurniawan95/Capstone_2/blob/main/shipping.JPG?raw=true)
+
+# Warehouse Layout
+![alt text](https://github.com/ariefkurniawan95/Capstone_2/blob/main/shipping.JPG?raw=true)
+
 # <font color ='yellow'>Conclusion : </font>
 - Tidak terdapat perbedaan dari segi jumlah pengiriman kepada konsumen baik pria ataupun wanita.
 - Tidak terdapat perbedaan harga barang antara pelanggan pria dengan pelanggan wanita.
