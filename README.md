@@ -1,8 +1,12 @@
 # Capstone_2
 Capstone 2 Data Analysis Online Retail Shipping
 
-Latar Belakang
-
+# <font color ='yellow'>Latar Belakang</font>
+Sebuah perusahaan memiliki bidang usaha retail yang menjual barangnya secara online. perusahaan memiliki sebuah gudang yang dibagi ke dalam 5 blok (blok A hingga E). 
+Untuk mengirimkan barang dari gudang ke pelanggan, terdapat 3 mode transportasi yang digunakan yaitu kapal, pesawat dan jalan raya (Ship, Flight and Road). 
+Perusahaan memiliki customer care yang ditugaskan untuk menangani pertanyaan pelanggan terkait pengiriman barang. 
+Pelanggan dapat memberikan rating dari angka 1 hingga 5 atas pengiriman yang telah dilakukan. 
+Perusahaan menyerahkan data atas pengirimannya kepada seorang data analyst untuk dianalisa lebih lanjut terkait kinerja pengiriman yang telah dilakukannya selama ini. 
 
 
 # <font color ='yellow'>Conclusion : </font>
