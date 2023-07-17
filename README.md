@@ -1,6 +1,6 @@
 # Capstone_2
 ##Capstone 2 Data Analysis Online Retail Shipping
-![alt text](http://url/to/img.png)
+
 # <font color ='yellow'>Latar Belakang</font>
 - Sebuah perusahaan memiliki bidang usaha retail yang menjual barangnya secara online.
 - perusahaan memiliki sebuah gudang yang dibagi ke dalam 5 blok (blok A hingga E). 
@@ -13,7 +13,22 @@
 ![alt text](https://github.com/ariefkurniawan95/Capstone_2/blob/main/shipping.JPG?raw=true)
 
 # Warehouse Layout
-![alt text](https://github.com/ariefkurniawan95/Capstone_2/blob/main/shipping.JPG?raw=true)
+![alt text](https://github.com/ariefkurniawan95/Capstone_2/blob/main/warehouse_blocks.JPG?raw=true)
+
+# <font color ='white'> Kamus data </font>
+#### Terdapat 12 kolom yang terdapat pada dataset Online Retail Shipping, yakni :
+- Cost_of_the_Product   : harga pokok product dalam satuan US dollar.
+- Customer_care_calls   : jumlah telepon yang terjadi untuk pengiriman terkait
+- Customer_rating       : penilaian konsumen atas pengiriman (1 paling kecil dan 5 paling besar)
+- Discount_offered      : diskon yang ditawarkan 
+- Gender                : Pria dan Wanita (Male dan Female)
+- ID                    : nomor id pelanggan
+- Mode_of_Shipment      : mode pengiriman barang (kapal, pesawat dan jalan)
+- Prior_purchases       : jumlah pembelian sebelumnya.
+- Product Importance    : perusahaan mengkategorikan produk kedalam beberapa parameter (low, medium, high)
+- Warehouse_block       : blok gudang asal barang berasal
+- Weight_in_gms         : berat dalam satuan gram
+
 
 # <font color ='yellow'>Conclusion : </font>
 - Tidak terdapat perbedaan dari segi jumlah pengiriman kepada konsumen baik pria ataupun wanita.
