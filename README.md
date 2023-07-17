@@ -19,3 +19,16 @@ Latar Belakang
 - Perusahaan tidak memiliki strategi untuk memberikan diskon terhadap konsumen yang loyal (prior purchasesnya banyak).
 - Barang dengan product_importancenya 'high' memiliki diskon yang lebih besar dibandingkan dengan kategori low dan medium.
 - Perusahaan tidak memiliki strategi khusus dalam memberikan diskon untuk pelanggan dengan prior_purchasesnya tinggi. 
+
+
+# <font color ='yellow'>Recommendation :</font>
+- Perusahaan harus memiliki strategi untuk menempatkan barang berdasarkan berat untuk kemudahan keluar masuknya barang supaya lebih cepat (re-layout warehouse). 
+- Seharusnya perusahaan memprioritaskan barang dengan product_importance high untuk dikirim lebih cepat supaya tidak terlambat sampai di konsumen.
+- Seharusnya perusahaan dapat melakukan pengaturan ulang perihal product importance dengan mode pengiriman. 
+    - Untuk barang dengan kategori product_importance high dikirim menggunakan pesawat (flight)
+    - Untuk barang dengan kategori product_importance medium dikirim menggunakan truk (road)
+    - Untuk barang dengan kategori product_importance low dikirim menggunakan kapal (ship)
+- Perusahaan harus memfokuskan pada penurunan tingkat keterlambatan barang. 
+- Seharusnya perusahaan memiliki promo / diskon khusus untuk pelanggan yang loyal (prior_purchases-nya tinggi)
+
+
